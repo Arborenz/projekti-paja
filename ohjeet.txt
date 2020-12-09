@@ -1,3 +1,10 @@
+Etsi oikea sijainti koneelta, eli cd /d/gitille
+
+Tee uusi repositorio
+mkdir uuden-repon-nimi
+
+
+
 Luo uusi haara
 git checkout -b "uuden-haaran-nimi"
 
