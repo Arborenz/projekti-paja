@@ -1,0 +1,18 @@
+Luo uusi haara
+git checkout -b "uuden-haaran-nimi"
+
+Tarkista oletko oikeassa haarassa
+-git branch
+
+Tee muutokset ja lisää versionhallintaan.
+git add .
+git commit -m "kommetti siitä miitä teit
+git push
+git push -u uuden-haaran-nimi
+
+Mergetään haara, 
+- vaihda kohde haaraan
+git checkout main
+
+suorita mergeäminen
+git merge uuden-haaran-nimi
