@@ -13,7 +13,7 @@ Tarkista oletko oikeassa haarassa
 
 Tee muutokset ja lisää versionhallintaan.
 git add .
-git commit -m "kommetti siitä miitä teit
+git commit -m "kommetti siitä mitä teit
 git push
 git push -u uuden-haaran-nimi
 
